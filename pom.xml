@@ -16,7 +16,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.release>17</maven.compiler.release>
     <restassured.version>5.5.0</restassured.version>
-    <testng.version>7.11.0</testng.version>
+    <testng.version>7.8.0</testng.version>
     <hamcrest.version>3.0</hamcrest.version>
   </properties>
 
